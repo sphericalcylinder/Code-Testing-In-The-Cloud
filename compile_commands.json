@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "clang++",
+            "-c",
+            "-std=c++20",
+            "-o",
+            "queue",
+            "queue.cpp"
+        ],
+        "directory": "/workspaces/Code-Testing-In-The-Cloud",
+        "file": "queue.cpp"
+    }
+]
